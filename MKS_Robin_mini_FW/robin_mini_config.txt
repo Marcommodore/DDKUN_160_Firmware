@@ -284,3 +284,4 @@
 >cfg_printingstat_word_color			0xFFFFFF	#the color of text in printing status
 
 >cfg_BUTTON_3D_effects		0				#3D effects setting (disable: 0, enable: 1)
+
